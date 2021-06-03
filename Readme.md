@@ -4,7 +4,7 @@
 
 | Demo/Ejercicios |      | Descripcion                                                  | Labs |
 | --------------- | ---- | ------------------------------------------------------------ | ---- |
-| Mod 01          | 1    | /docs/mod01_01_Creating a web app by using the Azure portal |      |
+| Mod 01          | 1    | docs/mod01_01_Creating a web app by using the Azure portal |      |
 | Mod 01          | 2    | docs/mod01_02_Create a static HTML web app by using      |      |
 | Mod 01          | 3    | docs/mod01_03_Create a Web App with a local Git  deployment source |      |
 | Mod 02          | 1    | docs/mod02_01_Create an HTTP trigger function by using  the Azure portal |      |
