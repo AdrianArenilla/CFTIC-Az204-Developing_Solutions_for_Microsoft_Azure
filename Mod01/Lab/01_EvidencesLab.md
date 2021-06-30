@@ -102,6 +102,6 @@ az group delete --name ManagedPlatform --no-wait --yes
 ![](Evidences/Image19.png)
 
 
-### [<-- Back to readme](../../readme.md)
+### [<-- Back to readme](../../../../readme.md)
 
 
