@@ -1,36 +1,24 @@
-# Alumno: Adrián Arenilla Seco
+# Student: Adrián Arenilla Seco
+## Microsoft Labs AZ-204 - Developing Solutions for Microsoft Azure
 
-## Ejercicios y Labs para dejar evidencia del AZ-204
+In this module we will learn to create comprehensive solutions in Microsoft Azure.  
+Deploy Azure compute solutions, create Azure roles, deploy and manage web applications, develop solutions that use Azure storage, implement authentication and authorization, and secure your solutions using KeyVault and Managed Identities.  
+You will also learn how to connect and consume Azure services and third-party services, and include event- and message-based models in your solutions.  
+It also covers monitoring, troubleshooting, and optimizing Azure solutions.
 
-| Demo/Ejercicios |      | Descripcion                                                  | Labs |
-| --------------- | ---- | ------------------------------------------------------------ | ---- |
-| Mod 01          | 1    | docs/mod01_01_Creating a web app by using the Azure portal |      |
-| Mod 01          | 2    | docs/mod01_02_Create a static HTML web app by using      |      |
-| Mod 01          | 3    | docs/mod01_03_Create a Web App with a local Git  deployment source |      |
-| Mod 02          | 1    | docs/mod02_01_Create an HTTP trigger function by using  the Azure portal |      |
-| Mod 03          | 1    | docs/mod03_01_Create a block blob storage account        |      |
-| Mod 03          | 2    | docs/mod03_02_Add a policy to Azure Blob storage         |      |
-| Mod 03          | 3    | docs/mod03_03_Using the Azure Blob storage client  library for .NET v11 |      |
-| Mod 04          | 1    | docs/mod04_01_Create Azure Cosmos DB resources by using  the Azure Portal |      |
-| Mod 04          | 2    | docs/mod04_02_Working with Azure Cosmos DB by using  .NET |      |
-| Mod 05          | 1    | docs/mod05_01_Creating an Azure VM by using the Azure  portal |      |
-| Mod 05          | 2    | docs/mod05_02_Creating an Azure VM by using  PowerShell  |      |
-| Mod 05          | 3    | docs/mod05_03_Create ARM templates by using the Azure  Portal |      |
-| Mod 05          | 4    | docs/mod05_04_Create ARM templates by using Visual  Studio Code |      |
-| Mod 05          | 5    | docs/mod05_05_Retrieve and deploy existing Docker image  locally |      |
-| Mod 05          | 6    | docs/mod05_06_Create a container image by using  Docker  |      |
-| Mod 05          | 7    | docs/mod05_07_Deploy an image to ACR by using Azure  CLI |      |
-| Mod 05          | 8    | docs/mod05_08_Run Azure Container Instances by using the  Cloud Shell |      |
-| Mod 06          | 1    | docs/mod06_01_Register an app with the Microsoft  Identity platform |      |
-| Mod 06          | 2    | docs/mod06_02_Interactive authentication by using  MSAL.NET |      |
-| Mod 06          | 3    | docs/mod06_03_Retrieving profile information by using  the Microsoft Graph SDK |      |
-| Mod 07          | 1    | docs/mod07_01_Set and retrieve a secret from Azure Key  Vault by using Azure CLI |      |
-| Mod 08          | 1    | docs/mod08_01_Create an APIM instance by using Azure  CLI |      |
-| Mod 08          | 2    | docs/mod08_02_Import an API by using the Azure  Portal   |      |
-| Mod 08          | 3    | docs/mod08_03_Create and publish a product               |      |
-| Mod 08          | 4    | docs/mod08_04_Transform your API by using policies       |      |
-| Mod 09          | 1    | docs/mod09_01_Create a Logic App using the Azure  Portal |      |
-| Mod 10:         | 1    | docs/mod10_01_Route custom events to web endpoint by  using the Azure CLI commands and Event Grid |      |
-| Mod 11:         | 1    | docs/mod11_01_Use .NET Core to send and receive messages  from a Service Bus queue |      |
-| Mod 12:         | 1    | docs/mod12_01_Instrument an ASP.NET Core app for  monitoring in Application Insights |      |
-| Mod 13:         | 1    | docs/mod13_01_Connect an app to Azure Cache for Redis by  using .NET Core |      |
+| Laboratories  | Title  |     
+| ------------- | ------ |
+| Lab 01        | [Building a web application on Azure platform as a service offerings](Mod01/Lab/01_EvidencesLab.md)										
+| Lab 02        | [Implement task processing logic by using Azure Functions](Mod02/Lab/02_EvidencesLab.md)					
+| Lab 03        | [Retrieving Azure Storage resources and metadata by using the Azure Storage SDK for .NET](Mod03/Lab/03_EvidencesLab.md)   								
+| Lab 04        | [Constructing a polyglot data solution](Mod04/Lab/04_EvidencesLab.md)				
+| Lab 05        | [Deploying compute workloads by using images and containers portal](Mod05/Lab/05_EvidencesLab.md)					
+| Lab 06        | [Authenticating to and querying Microsoft Graph by using MSAL and .NET SDKs](Mod06/Lab/06_EvidencesLab.md) 					
+| Lab 07        | [Access resource secrets more securely across services](Mod07/Lab/07_EvidencesLab.md) 		
+| Lab 08        | [Creating a multi-tier solution by using services in Azure](Mod08/Lab/08_EvidencesLab.md)   						
+| Lab 09        | ---------------------------------------------------------- 								
+| Lab 10        | [Publishing and subscribing to Event Grid events](Mod10/Lab/10_EvidencesLab.md) 
+| Lab 11        | [Asynchronously processing messages by using Azure Queue Storage](Mod11/Lab/11_EvidencesLab.md)	
+| Lab 12        | [Monitoring services that are deployed to Azure](Mod12/Lab/12_EvidencesLab.md) 	
+| Lab 13        | [Enhancing a web application by using the Azure Content Delivery Network](Mod13/Lab/13_EvidencesLab.md)
+| Lab Logic Apps | [Automate business processes with Logic Apps](Mod09/Lab/09_EvidencesLab.md)	
