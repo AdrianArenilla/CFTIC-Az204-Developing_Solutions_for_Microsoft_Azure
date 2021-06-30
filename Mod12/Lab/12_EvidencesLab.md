@@ -115,6 +115,6 @@ az group delete --name MonitoredAssets --no-wait --yes
 ![](Evidences/Image19.png)
 
 
-### [<-- Back to readme](../../readme.md)
+### [<-- Back to readme](../../../../)
 
 

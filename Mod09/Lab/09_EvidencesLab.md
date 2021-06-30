@@ -80,6 +80,6 @@ az group delete --name AutomatedWorkflow --no-wait --yes
 ![](Evidences/Image17.png)
 
 
-### [<-- Back to readme](../../readme.md)
+### [<-- Back to readme](../../../../)
 
 

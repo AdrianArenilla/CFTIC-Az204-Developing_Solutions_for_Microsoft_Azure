@@ -103,6 +103,6 @@ az group delete --name StorageMedia --no-wait --yes
 ![](Evidences/Image17.png)
 
 
-### [<-- Back to readme](../../readme.md)
+### [<-- Back to readme](../../../../)
 
 

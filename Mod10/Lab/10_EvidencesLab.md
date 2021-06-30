@@ -89,6 +89,6 @@ az group delete --name PubSubEvents --no-wait --yes
 ![](Evidences/Image15.png)
 
 
-### [<-- Back to readme](../../readme.md)
+### [<-- Back to readme](../../../../)
 
 

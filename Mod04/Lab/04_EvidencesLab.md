@@ -215,6 +215,6 @@ az group delete --name PolyglotData --no-wait --yes
 ![](Evidences/Image33.png)
 
 
-### [<-- Back to readme](../../readme.md)
+### [<-- Back to readme](../../../../)
 
 

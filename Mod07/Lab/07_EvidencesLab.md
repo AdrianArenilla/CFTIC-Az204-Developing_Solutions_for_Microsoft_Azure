@@ -139,6 +139,6 @@ az group delete --name ConfidentialStack --no-wait --yes
 ![](Evidences/Image25.png)
 
 
-### [<-- Back to readme](../../readme.md)
+### [<-- Back to readme](../../../../)
 
 

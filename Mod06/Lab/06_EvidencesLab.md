@@ -99,6 +99,6 @@ Delete the application registration in Azure AD.
 ![](Evidences/Image16.png)
 
 
-### [<-- Back to readme](../../readme.md)
+### [<-- Back to readme](../../../../)
 
 
